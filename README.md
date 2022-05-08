@@ -1,2 +1,3 @@
-# thesis
+# Thesis
+
 PhD Thesis Online Appendix
